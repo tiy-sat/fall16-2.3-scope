@@ -1,0 +1,3 @@
+// Lecture javascript
+
+console.log("...");
